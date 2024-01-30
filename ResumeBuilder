@@ -1,0 +1,83 @@
+# Resume Builder
+
+Welcome to the Resume (CV) Generator project! Our goal is to streamline the process of creating a professional and effective resume that stands out to employers. 
+This tool is designed to assist users in crafting a job-specific resume by providing guidance and formatting options.
+
+## 🔍 Overview
+
+Resume Builder consists of the following specialized agents, each with a specific role in the resume building process:
+
+1. **Search Agent**: Gathers information about the desired company/industry.
+2. **Writer Agent**: Crafts professional and engaging content based on the gathered information about the user.
+3. **Critique Agent**: Provides feedback and ensures the content is polished and effective.
+4. **Designer Agent**: Enhances the resume layout and design for a visually appealing form, produces a file.
+
+These agents work together to create a resume that leaves a good impression and adheres to company standards.
+
+<img width="700" alt="gpt-researcher" src="https://github.com/rotemweiss57/gpt-marketer/assets/91344214/e4bbc3b3-815e-47b8-82f7-b41528b625c1">
+
+## 🌟 Features
+
+- **Personalized Email Content**: Deliver custom-tailored messages to each target company.
+- **Data-Driven Insights**: Utilize recent events and information about target companies to create compelling emails.
+- **Quality Assurance**: Ensure that each email is well-written, visually appealing, and error-free.
+- **Efficient Automation**: Streamline the marketing process with automated agents.
+- **Enhanced Conversion Rates**: Increase the likelihood of converting leads into customers with personalized marketing.
+
+## 🛠️ How It Works
+
+1. **Target Audience Selection**: Define a list of target companies and their respective products or services.
+2. **Automated Research**: The Search Agent gathers recent events and information about each target company.
+3. **Email Content Creation**: The Writer Agent creates personalized B2B email content based on the gathered data.
+4. **Content Review**: The Critique Agent reviews and refines the email content to ensure effectiveness.
+5. **Email Design**: The Designer Agent enhances the email's layout and visual appeal.
+6. **Email Distribution**: The Sender Agent manages the distribution of personalized emails to target companies.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Tavily API Key - [Sign Up](https://tavily.com/)
+- OpenAI API Key - [Sign Up](https://platform.openai.com/)
+
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/rotemweiss57/gpt-marketer.git
+   ```
+2. Export your API Key
+   ```sh
+   export TAVILY_API_KEY=<YOUR_TAVILY_API_KEY>
+   export OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
+   ```
+3. Install Requirements
+   ```sh
+   pip install -r requirements.txt
+   ```
+4. Configure Target Audience and Products
+   ```sh
+   # Add your target companies and product details to the vector database.
+   ```
+5. Run the Marketer
+   ```sh
+   python marketer.py
+   ```
+6. Watch Marketer in Action
+
+## 🤝 Contributing
+
+Interested in contributing to the Marketer project? We welcome contributions from developers, marketers, and AI enthusiasts! Check out our [Contributor's Guide](CONTRIBUTING.md) to get started.
+
+## 🛡️ Disclaimer
+
+Marketer is an experimental project and is provided "as-is" without any warranty. It is intended for marketing purposes and should be used responsibly and in compliance with applicable laws and regulations.
+
+## 📩 Contact Us
+
+For support, inquiries, or collaboration opportunities, please reach out to us:
+
+- [Email](mailto:your-email@example.com)
+
+Join us in redefining B2B email marketing with the power of AI-driven personalization through Marketer!
