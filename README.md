@@ -2,7 +2,7 @@
 
 Welcome to the GPT Marketer project, an innovative AI-driven marketing solution designed to revolutionize B2B email marketing campaigns. Marketer empowers businesses to connect with their target audiences in a more personalized and effective way by leveraging the power of AI to create and send personalized emails.
 
-Check out more details and demo of the project [here](https://docs.google.com/presentation/d/19KQm87mJ12i4tzkgr38YtPkXemME7XA0/edit#slide=id.p5)!
+Check out more details and demo of the project [here]([https://docs.google.com/presentation/d/19KQm87mJ12i4tzkgr38YtPkXemME7XA0/edit#slide=id.p5](https://drive.google.com/file/d/12Hsbztm9uiqpD3paM3LheQvvyzWETQ-y/view?usp=sharing))!
 
 ![gpt-marketer](https://github.com/rotemweiss57/gpt-marketer/assets/91344214/45902176-13fb-4aa9-9ebf-9320b6294383)
 
